@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>code craft kenya Landing Page</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <nav>
+    <div class="logo">code craft KE</div>
+    <ul>
+      <li><a href="#">web development</a></li>
+      <li><a href="#">data analysis</a></li>
+      <li><a href="#">robotics</a></li>
+      <li><a href="#">AI</a></li>
+      <li><a href="#">Support</a></li>
+    </ul>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>CODE CRAFT KENYA</h1>
+  <p>code. create . Innovate</p>
+  <a href="#" class="btn">JOIN US</a>
+</section>
+
+<section class="product">
+  <h2></h2>
+  <p>Elevate your coding skills.</p>
+  <img src="https://images.pexels.com/photos/3521937/pexels-photo-3521937.jpeg?_gl=1*1wlvy2p*_ga*MTMyMzI5MTQ2MC4xNzc0MDE5Nzc2*_ga_8JE65Q40S6*czE3NzQwMTk3NzYkbzEkZzEkdDE3NzQwMjAzNDkkajU5JGwwJGgw">
+</section>
+
+<footer>
+  <p>© 2026 code craft kenya. All rights reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+
